@@ -9,6 +9,7 @@
 .strength4{ background:#4dcd00; width:200px;}
 .strength5{ background:#399800; width:250px;}
 </style>
+
 <script>
 function passwordStrength(password)
 { var desc = new Array();
